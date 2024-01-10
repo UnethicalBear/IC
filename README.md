@@ -9,6 +9,7 @@ A project which recreates famous integrated circuits and recreates them using as
 ### In Progress
 - RTL Logic Family (PCB with NAND, NOR, AND, OR, NOT, SR Latch using RTL logic)
 ### Todo
-- LM317 (voltage regulator)
+- LM317 (variable voltage regulator)
 - 7805 (voltage regulator)
-- D Flip Flop (CMOS)
+- 74HC174DRG4 (CMOS D Flip Flop)
+- Schmitt Trigger of some sort
