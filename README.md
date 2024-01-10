@@ -7,10 +7,8 @@ A project which recreates famous integrated circuits and recreates them using as
 - 555 (timer circuit)
 - 741 (operational amplifier)
 ### In Progress
+- RTL Logic Family (PCB with NAND, NOR, AND, OR, NOT, SR Latch using RTL logic)
 ### Todo
 - LM317 (voltage regulator)
-- JK flip flop
-- SR latch
-- D flip flop
-- T flip flop
 - 7805 (voltage regulator)
+- D Flip Flop (CMOS)
